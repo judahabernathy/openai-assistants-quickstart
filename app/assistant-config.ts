@@ -1,4 +1,4 @@
-export let assistantId = ""; // tynqi3-juqjih-Sykgux
+export let assistantId = ""; // asst_G3YhFH5MCu6PKOhGHVefg4Qk
 
 if (assistantId === "") {
   assistantId = process.env.OPENAI_ASSISTANT_ID;
